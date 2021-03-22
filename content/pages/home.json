@@ -7,17 +7,17 @@
     {
       "_template": "navbar",
       "banner": {
-        "display": false,
+        "display": true,
         "text": "",
         "link": ""
       },
       "navItems": [
         {
-          "link": "/docs",
-          "label": "Docs"
+          "link": "/f",
+          "label": "Documentos"
         },
         {
-          "link": "/guides",
+          "link": "/guidess",
           "label": "Guides"
         },
         {
